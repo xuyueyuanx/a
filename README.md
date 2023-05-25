@@ -1,1 +1,12 @@
-# COCO-EN-CN；CUB-200-CN；Oxford-102-CN；数据下载链接（https://pan.baidu.com/s/1E37SRuol05cZ4RNu2X8rcw 提取码：8888）
+# 多语言图像描述生成任务
+
+## COCO-EN-CN；CUB-200-CN；Oxford-102-CN；
+
+* 研究工作中创建的数据集，COCO-EN-CN数据集是对MSCOCO数据集的拓展。每张图像平均配有5个英文和5个中文不同的描述。
+* CUB-200-CN数据集是对CUB-200-2011数据集的拓展。每张图像配有10个不同的英文和中文描述。
+* Oxford-102-CN数据集是对Oxford-102数据集的拓展。每张图像配有10个不同的英文和中文描述。
+
+* 数据集可用于多语言图像描述生成的相关研究。
+
+* 数据下载链接(https://pan.baidu.com/s/1E37SRuol05cZ4RNu2X8rcw) 提取码：8888
+
